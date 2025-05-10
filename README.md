@@ -11,7 +11,9 @@ KELAS : TIF RP 23 CID A
 
 MATKUL : PEMOGRAMAN MOBILE 1
 
-using Visual Studio Code
+Using Visual Studio Code
+
+Android Studio does not support my laptop. 
 
 java, kotlin, xml
 
